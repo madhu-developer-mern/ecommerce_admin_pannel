@@ -1,0 +1,5 @@
+﻿Γ£à MongoDB connected. DB: images
+≡ƒÜÇ Backend running on http://localhost:5001
+≡ƒôí WebSocket running on http://localhost:5001
+
+≡ƒÆí To enable HTTPS, run: node generate-certificates.js
